@@ -1,0 +1,14 @@
+{
+    "name": "Raidroid",
+    "description": "A plugin for raid with android.",
+    "authors": [
+        {
+            "name": "らいぞう",
+            "id": "1153215351803351090"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
